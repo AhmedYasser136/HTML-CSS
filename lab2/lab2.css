@@ -1,0 +1,67 @@
+.form {
+    background-image: url(/bg.jpeg);
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+b {
+    font-size: 30px;
+    padding-left: 25%;
+    padding-top: 50px;
+    font-style: italic;
+    color: white;
+}
+
+
+
+legend{
+    color:white;
+
+}
+
+
+
+
+
+.login {
+    font-size: 20px;
+
+}
+
+.uname {
+    color: white;
+}
+
+.password {
+    color: white;
+}
+
+.fild {
+    border: 2px white solid;
+    width: min-content;
+    margin-left: 40%;
+    margin-top: 15%;
+    /* margin-right: 20%; */
+
+
+}
+.submit{
+
+    padding-left: 25%;
+    border-radius: 50px;
+
+}
+
+
+/*     border-radius: 20px;
+    width: 200px;
+    height: 40px;
+    margin: -350px 100px 10px -40px;
+    color: black;
+    font-size: 100%;
+    background-color: red;
+    border: 1px solid red;
+    cursor: pointer; */
