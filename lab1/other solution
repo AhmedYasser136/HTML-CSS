@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>20</title>
+</head>
+
+<body>
+
+
+    <iframe src="http://www.wikipedia.org" width="99%" height="450px" frameborder="1" style="border: 10px rgb(0, 255, 55) solid ;" >
+    </iframe>
+
+    <!-- <iframe width="1226" height="480" src="https://www.youtube.com/embed/o6As7cP3eIo?list=PLknwEmKsW8OvX7kZhsv6I6tT8SKDXDwUc" title="#25 كورس html كامل بالعربي |  الفرق بين iframe و بين embed و بين object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+
+
+</body>
+
+</html>
